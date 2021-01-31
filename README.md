@@ -1,1 +1,1 @@
-Git is amazing!
+Something else.
